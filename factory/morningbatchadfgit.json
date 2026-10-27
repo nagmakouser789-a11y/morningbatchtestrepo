@@ -1,0 +1,15 @@
+{
+	"name": "morningbatchadfgit",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7ebe2f34-1c5d-4b34-b07e-859e6e257aaa",
+		"tenantId": "6a041223-f7c1-4393-8219-04610bcaabe6"
+	}
+}
